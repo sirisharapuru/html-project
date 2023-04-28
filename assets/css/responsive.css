@@ -1,0 +1,259 @@
+/* ABOVE MD */
+@media only screen and (max-width: 1200px) {
+	.prcessIcon {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 60px auto;
+	}
+
+	.prcessIcon2 {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 60px auto;
+	}
+
+	.prcessIcon3 {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 60px auto;
+	}
+
+	.prcessIcon4 {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 60px auto;
+	}
+
+	.prcessIcon5 {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 60px auto;
+	}
+
+	.prcessIcon6 {
+		height: 125px;
+		width: 125px;
+		line-height: 120px;
+		margin: 0px auto;
+	}
+	
+	.tradingSec {margin: 20px 0;}
+	
+	.process2 img { margin: 40px 0;}
+	
+	.prcessIcon2 {margin: 40px auto;}
+	
+	.prcessIcon3 { margin: 10px auto;}
+	
+	
+	.process3 img { margin: 70px 0;}
+	
+	.prcessIcon4 { margin: -26px auto;}
+	
+	.process4 img { margin: 90px 0;}
+	
+	.prcessIcon5 { margin: -50px auto;}
+	
+	.process5 img { padding: 160px 0px !important;}
+	
+	.prcessIcon6 {margin: -120px auto; margin-bottom: 60px;}
+
+}
+
+/* MD */
+@media (min-width: 992px) and (max-width: 1200px) {
+	process1 img {
+		width: 15%;
+	}
+
+	.process2 img {
+		width: 15%;
+	}
+
+	.process3 img {
+		width: 15%;
+	}
+
+	.process4 img {
+		width: 15%;
+	}
+
+	.process5 img {
+		width: 15%;
+	}
+
+	.process6 img {
+		width: 15%;
+	}
+
+	.congratulations {
+		width: 140px;
+		left: -15%;
+		height: 37px;
+		top: 15%;
+	}
+
+	.congratulations h6 {
+		padding: 5px 0px;
+		font-size: 16px;
+	}
+
+	.helloWorld {
+		width: 140px;
+		left: 10%;
+		height: 35px;
+		top: 69%;
+	}
+
+	.helloWorld h6 {
+		padding: 5px 0px;
+		font-size: 16px;
+	}
+	.fav {
+		left: 48%;
+		top: 48%;
+	}
+}
+
+
+/* SM */
+@media (min-width: 768px) and (max-width: 991px) {
+	.process1 img {
+		width: 15%;
+	}
+
+	.process2 img {
+		width: 15%;
+	}
+
+	.process3 img {
+		width: 15%;
+	}
+
+	.process4 img {
+		width: 15%;
+	}
+
+	.process5 img {
+		width: 15%;
+	}
+
+	.process6 img {
+		width: 15%;
+	}
+
+	
+}
+
+/* BELOW XS */
+@media only screen and (max-width: 767px) {
+	.phoneImg img {
+		position: relative;
+		bottom: 0;
+	}
+
+	.insideForm {
+		width: 100%;
+	}
+	.clients ul {
+		display: grid;
+		width: 100%;
+	}
+
+	.icon1 img {
+		width: 20%;
+	}
+
+	
+
+	.icon1 {
+		padding-bottom: 40px;
+	}
+
+	.congratulations {
+		display: none;
+	}
+
+	.helloWorld {
+		display: none;
+	}
+
+	.fav img {
+		display: none;
+	}
+	
+	.mmt-3{margin-top:30px;}
+	
+	.main {
+  	width: auto;
+	}
+	
+	.mobilehide{display: none;}
+}
+
+@media only screen and (max-width: 640px) {
+	
+}
+
+@media (min-width: 320px) and (max-width: 576px) {
+	.process1 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+	}
+
+	.process2 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+	}
+
+	.process3 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+	}
+
+	.process4 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+	}
+
+	.process5 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+		padding: 50px 0px;
+	}
+
+	.process6 img {
+		width: 8%;
+		transform: rotate(90deg);
+		position: unset;
+	}
+	.congratulations {
+		display: none;
+	}
+	.helloWorld {
+		display: none;
+	}
+	.fav img {display: none;}
+}
+
+@media only screen and (max-width: 1200px) {
+	.banner-img-text {
+		display: none;
+	}
+}
+
+@media(max-width: 992px) {
+   .meet ul li {
+	   width: 100%;
+   }
+}
